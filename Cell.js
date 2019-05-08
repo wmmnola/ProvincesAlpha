@@ -1,4 +1,4 @@
-let col_slower = .01;
+let col_slower = 100;
 
 let Cell = function(x, y, size, cellx, celly) {
   this.x = x;
